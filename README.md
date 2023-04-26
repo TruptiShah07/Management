@@ -1,4 +1,4 @@
-# Simplilearn_Project
+# MAnagement System
 
 **Project' Details**
 
